@@ -1,0 +1,55 @@
+
+:root{
+    --vermelho: #E50914;
+    --preta:#141414;
+}
+
+*{ 
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    direction: 16px;
+    vertical-align:baseline; 
+    background:transparent;
+    box-sizing: border-box; 
+}
+
+/*Os comandos abaixo são relacionados a base do CSS */
+body{
+    background: var(--preta);  
+    font-family: 'Times New Roman', Times, serif;, 
+    color: white; 
+}
+
+header .container{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+}
+
+
+header .logo{
+    margin-left: 5px;
+    color: var(--vermelho); 
+    font-family: Arial black;
+    font-size: 40px;
+}
+
+header nav a{
+    text-decoration: none; 
+    color: #AAA; 
+    margin-right: 10px; 
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+
+.filme-principal{
+    font-size: 20px; 
+    background: url('/img/capa-filme.jpg');
+    height: 400px;
+}

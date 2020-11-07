@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+     <head>
+         <title> Minha página</title>
+         <meta charset="utf-8">
+         <script type="text/javascript" src="js/main.js"></script>
+     </head>
+     <body onload="load()">
+         <script> // Para que o o JavaScript interaja com o HTML é possível fazê-lo dento do próprio Html
+                  // inserindo a TAG <script> e tudo que estiver dentro desta TAG é o JavaScript
+                  // Mas é máis fácil inserir fora com o arquivo main.js, criando uma nova pasta dentro 
+                  // do projeto.
+                  // alert("Meu primeiro JS");
+         </script>
+         <button type="button" onclick="clicou()"> Clique Aqui!! </button>
+         <p id="Opa, Obrigado" onclick="redireciona()"></p>  
+         <p id="mousemove" onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p> 
+         <select onchange="funcaoChange(this)">
+             <option value="1">Valor 1</option>
+             <option value="2">Valor 2</option>
+             <option value="3">Valor 3</option>
+         </select>
+     </body>
+ </html>
