@@ -1,0 +1,9 @@
+desafio de Fundamentos Aritméticos em JavaScript
+
+5 / 5 - Consumo Médio do Automóvel
+
+let A = gets();
+let B = gets();
+let total = (A / B).toFixed(quantidade)
+console.log(total + " km/l")
+
