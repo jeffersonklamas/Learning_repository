@@ -1,0 +1,38 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 20px Arial, sans-serif;
+}
+/* Atribuindo a cor para o navbar */
+.navbar {
+    background-color: #adaf6f;
+}
+
+.quem-somos{
+    background-color: #8181f7;
+    color: white;
+}
+
+/*a instrução padding cria uma margem por dentro do background */
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #58FAF4;
+}
+
+.servicos{
+    background-color: #d3f02e;
+}
+
+.bg-footer{
+    background-color: black;
+    color: wheat;
+}
