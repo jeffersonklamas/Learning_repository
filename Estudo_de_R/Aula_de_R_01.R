@@ -80,3 +80,20 @@ datas <- as.Date(c('2020-05-15', '2020-05-16', '2020-05-17', '2020-05-18', '2020
 # Comparando dois vetores
 preco > custo
 
+# Instalação de pacotes
+# no Rstudio é possível instalar de duas maneiras indo no menu Packages
+# e pesquisar se já possui o pacote, caso negartivo, clicar em install e informar
+# o nome do pacote.
+# A outra maneira é realizar a instrução abaixo: sendo que o nome entre aspas 
+# é o pacote que será baixado.
+
+install.packages('dynlm')
+
+# As vezes pode ocorrer algum erro, tente
+install.packages('dynlm' , dependencies = t)
+
+# Para usar as funções do pacote, use a instrução abaixo.
+
+library(dynlm)
+#ou
+require(rpart)

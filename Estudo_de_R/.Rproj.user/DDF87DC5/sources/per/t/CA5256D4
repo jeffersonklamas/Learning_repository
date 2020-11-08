@@ -1,24 +1,24 @@
 {
     "id": "CA5256D4",
-    "path": "~/Documentos/LearningFolder/EStudo_de_R/Aula_de_R_01.R",
+    "path": "~/Documentos/Estudos_de_Tecnologia/Estudos/Estudo_de_R/Aula_de_R_01.R",
     "project_path": "Aula_de_R_01.R",
     "type": "r_source",
-    "hash": "2550878571",
+    "hash": "3160173722",
     "contents": "",
     "dirty": false,
     "created": 1604176095019.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "45,0",
-        "scrollLine": "35"
+        "cursorPosition": "92,43",
+        "scrollLine": "91"
     },
     "folds": "",
-    "lastKnownWriteTime": 1604267564,
+    "lastKnownWriteTime": 1604798187,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1604267564023,
+    "last_content_update": 1604798187223,
     "read_only": false,
     "read_only_alternatives": []
 }
