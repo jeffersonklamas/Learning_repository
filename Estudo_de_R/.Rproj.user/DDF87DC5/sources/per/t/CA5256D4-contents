@@ -97,3 +97,32 @@ install.packages('dynlm' , dependencies = t)
 library(dynlm)
 #ou
 require(rpart)
+
+#Aprendendo a Importar bases em formato excel e csv.
+# Lembre a tela do Rstudio possui 4 quadrantes:
+# Quadrante Editor: Onde se digita o código (Tela superior a esquerda)
+# Quadrante Console: Onde se roda os códigos e é apresentado as saídas (Tela inferior a esquerda). [A casa do R é neste quadrante]
+# Quadrante environment: Painel com todos os objetos criados na sessão. (Tela superior a direita)
+# Quadrante Output: Subdividido em 5 minis-abas. (Tela inferior a direita)
+# Subdivisão do quadrante Output:
+# Files: Mostra os arquivos no diretório de trabalho.
+# Plots: Painel onde os gráficos são apresentados.
+# Packages: Lista de pacotes instalados e onde se pede para instalar novos pacotes e update.
+# Help: Painel para documentação de consultas das funções.
+# Viewer: painel com histórico dos comandos rodados.
+
+# Consulte o site para melhor visualização: https://www.curso-r.com/material/rstudio/#header-introducao
+
+# para importar um arquivo no RStudio acesse a opção import Dataset no quadrante environment
+# e informe o tipo de arquivo a ser carregado, na aba que abre informe o diretório onde esta o arquivo
+# pode definir a aba que será aberta em sheet, será apresentado uma pré visualização de enter e pronto.
+# ou use o comando abaixo para que o mesmo possa abrir diretamente o arquivo.
+# lembre o meu é um exemplo, terá que inserir o caminho correto do seu arquivo.
+
+library(readxl)
+BD_marcas_de_chocolate <- read_excel("~/Documentos/Aula_Marketing_Analytics_Estatidados/BD_marcas_de_chocolate.xlsx")
+View(BD_marcas_de_chocolate)
+
+# O mesmo vale para abrir arquivos em csv, é importante antes abrir seu arvuivo csv para conhecer os detalhes do mesmo.
+# pode haver alguns erros que podem solucionados ao visualizar seu csv antes.
+

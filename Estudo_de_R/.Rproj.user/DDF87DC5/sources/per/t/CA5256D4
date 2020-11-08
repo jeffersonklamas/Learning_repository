@@ -3,22 +3,22 @@
     "path": "~/Documentos/Estudos_de_Tecnologia/Estudos/Estudo_de_R/Aula_de_R_01.R",
     "project_path": "Aula_de_R_01.R",
     "type": "r_source",
-    "hash": "3160173722",
+    "hash": "1708214616",
     "contents": "",
     "dirty": false,
     "created": 1604176095019.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
-        "cursorPosition": "92,43",
-        "scrollLine": "91"
+        "cursorPosition": "128,0",
+        "scrollLine": "118"
     },
     "folds": "",
-    "lastKnownWriteTime": 1604798187,
+    "lastKnownWriteTime": 1604861351,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1604798187223,
+    "last_content_update": 1604861351650,
     "read_only": false,
     "read_only_alternatives": []
 }
