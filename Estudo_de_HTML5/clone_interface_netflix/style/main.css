@@ -61,11 +61,37 @@ header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus ir�
 }
 
 .filme-principal .descricao{
+    margin-top: 10%; /* Pode ser em px ou porcentagem, o certo é % */
     font-size: 25px; /*Inseir o tamanho da fonte em descrição para encher mais os espaços */
     margin-bottom: 40px;
 }
 
 
 .titulo{
+    margin-top: 15%;
     font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botao{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    
+    padding: 15px 30px;
+    margin-right:15px;
+    font-size: 12px;
+
+    cursor: pointer; /* ao passar pelo botão irá aparecer um ponteiro */
+    transition: .3s ease all; /*Ao passar entre um botao e outro irá  ocorrer um tempo de transição */
+}
+
+.botao:hover{ /*Força no elemento a mudança de fundo para acentuar o botão */
+    background-color: white;
+    color: black;
+}
+
+.botao i{ /* inserindo o espaçamento dentro dos incones*/
+    color: #7FFFD4; /* por default vem branco, inseri uma cor */
+    margin-right: 10px;
 }
