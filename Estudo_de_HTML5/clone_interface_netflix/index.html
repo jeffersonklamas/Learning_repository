@@ -1,11 +1,27 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NETFLIX Clone</title>
+<html lang="pt-br"> <!-- Informa a linguagem da página-->
+<head> <!-- Configurações da estutura inicial da página-->
+    <meta charset="UTF-8"> <!-- Este meta charset é padrão para aceitar caracteres acentuados-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Este é para jquery e ambientes mobil-->
+    <link rel="stylesheet" href="style/main.css"> <!--Linkando com a folha de css-->
+    <!-- Incluindo incone da Netflix ao lado do Tittle usando faivcon-->
+    <link rel="sortcut icon" href="img/logonetflixfaivcon.png" type="image/png" /> 
+    <title>NETFLIX Clone</title> <!-- Título da página-->
 </head>
-<body>
-    
+<!-- Lembre o HTML não é mais responsável pela formatação do site, somente do que vai aparecer, o que cuida
+da formatação é o CSS
+-->
+<body> <!-- Configurações da página, tudo que vai aparecer para o usuário-->
+   <header> <!-- Definindo cabeçalho-->
+       <div class="container"> 
+           <h2>NETFLIX</h2>
+           <nav> <!-- TAG semantica para criar menus de navegação-->
+            <a href="#">Inicío</a> <!-- Menus navegáveis -->
+            <a href="#">Séries</a> <!-- Menus navegáveis -->
+            <a href="#">Filmes</a> <!-- Menus navegáveis -->
+            <a href="#">Documentários</a> <!-- Menus navegáveis -->
+           </nav>
+       </div>
+   </header>
 </body>
 </html>
