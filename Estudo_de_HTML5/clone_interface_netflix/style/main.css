@@ -1,0 +1,42 @@
+:root{ /*Declarando uma variável geral dentro do CSS é possível se for usar uma cor padrão sem precisar repeti-la sempre*/
+    --vermelho: #E50914;
+    --preta: #141414;
+}
+
+*{ /*Definindo padrão para o site a marem e preenchimento, é improtante pois pode ocorrer de dar errado em navegadores diferentes */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Definindo o limite d borda da caixa. */
+}
+
+/*Toda vez que for referenciar uma TAG HTML insira o nome dela, se for referenciar uma classe inicie a mesma com . seguido do nome da classe */
+
+body{
+    background: var(--preta); /*Definindo a cor de fundo da página */
+    font-family: Helvetica, Arial sans-serif; /*Definindo a fonte de família da página */
+}
+
+header .container{ /* Alinahndo os elementos em tela */
+    display: flex; /* o Flex sempre irá jogar em linha */
+    align-items: center; /*Alinhando os elementos ao centro */
+    justify-content: space-between; /*Alinhando os elementos na horizontal com espaços entre a primeira TAG h2e a segunda TAG nav a */
+}
+
+header .logo{ /*Definindo valores de cor, fonte e tamanho do logo */
+    margin-left: 5px; /* Definindo o espaço entre o logo e amargem da página*/
+    color: var(--vermelho);
+    font-family: 'Arial Black', 'Times New Roman', Times, serif;
+    font-size:40px;
+}
+
+header nav a{ /*Definindo valores para os menus navegáveis */
+    text-decoration: none; /*removendo o padrão dos textos */
+    color: #AAA; /* Definindo a cor dos menus */
+    margin-right: 10px; /*Definindo o espaçamento entre os menus */
+
+}
+
+header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus irá alterar a cor */
+    color: #fff;
+}
+
