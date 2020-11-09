@@ -1,3 +1,4 @@
+
 :root{ /*Declarando uma variável geral dentro do CSS é possível se for usar uma cor padrão sem precisar repeti-la sempre*/
     --vermelho: #E50914;
     --preta: #141414;
@@ -10,20 +11,24 @@
 }
 
 /*Toda vez que for referenciar uma TAG HTML insira o nome dela, se for referenciar uma classe inicie a mesma com . seguido do nome da classe */
+/* Instruções abaixo se relacionam aos elementos base */
 
 body{
     background: var(--preta); /*Definindo a cor de fundo da página */
     font-family: Helvetica, Arial sans-serif; /*Definindo a fonte de família da página */
+    color: white;
+
 }
 
 header .container{ /* Alinahndo os elementos em tela */
     display: flex; /* o Flex sempre irá jogar em linha */
+    flex-direction: row;
     align-items: center; /*Alinhando os elementos ao centro */
     justify-content: space-between; /*Alinhando os elementos na horizontal com espaços entre a primeira TAG h2e a segunda TAG nav a */
 }
 
 header .logo{ /*Definindo valores de cor, fonte e tamanho do logo */
-    margin-left: 5px; /* Definindo o espaço entre o logo e amargem da página*/
+    margin-left:5px; /* Definindo o espaço entre o logo e amargem da página*/
     color: var(--vermelho);
     font-family: 'Arial Black', 'Times New Roman', Times, serif;
     font-size:40px;
@@ -40,3 +45,27 @@ header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus ir�
     color: #fff;
 }
 
+/*Filme principal */
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(../img/capa_principal.jpg);
+ 
+    height: 900px; /*O especialista inseriu 400px, mas para mim funciona com 900px */
+    background-size: cover;
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    font-size: 25px; /*Inseir o tamanho da fonte em descrição para encher mais os espaços */
+    margin-bottom: 40px;
+}
+
+
+.titulo{
+    font-size: 50px;
+}
