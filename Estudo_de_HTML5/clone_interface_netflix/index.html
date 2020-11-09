@@ -8,7 +8,14 @@ básico, neste momento o Especialista instrutor é o Felipe Aguiar, Fera e super
     <link rel="stylesheet" href="style/main.css"> <!--Linkando com a folha de css-->
     <!-- Incluindo incone da Netflix ao lado do Tittle usando faivcon-->
     <link rel="sortcut icon" href="img/logonetflixfavicon2.png" type="image/png" /> 
-    <script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script> <!-- Este link libera ícones para botão-->
+  
+    <!-- Linkando owl carousel-->
+    <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+
+    <!-- Responsividade-->
+<link rel="stylesheet" href="style/responsive.css">
+
     <title>NETFLIX Clone</title> <!-- Título da página-->
 </head>
 <!-- Lembre o HTML não é mais responsável pela formatação do site, somente do que vai aparecer, o que cuida
@@ -45,6 +52,48 @@ da formatação é o CSS
             </div>
         </div>
    </main>
+<!-- Criando o carrosel-->
+
+   <div class="carrosel-filmes">
+       <div class="owl-carousel owl.theme">
+        <div class="item">
+            <img class="box-filme" src="img/sub1.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub2.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub3.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub4.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub5.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub6.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub7.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub8.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub9.jpg" alt="" srcset=""> 
+        </div>
+        <div class="item">
+            <img class="box-filme" src="img/sub10.jpg" alt="" srcset=""> 
+        </div>
+       </div>
+   </div>
+
+   <!-- Ao linkar JavaScript é consideravel linkar os mesmos no final do HTML, para evitar problemas de inicio de pagina, considere que a página segue em sequência, para eviat problemas linke o javaScript no final-->
+   <script src="https://kit.fontawesome.com/2c36e9b7b1.js"></script> <!-- Este link libera ícones para botão-->
+   <script src="js/owl/jquery.min.js"></script>
+   <script src="js/owl/owl.carousel.min.js"></script>
+   <script src="js/owl/setup.js"></script>
 
 </body>
 </html>

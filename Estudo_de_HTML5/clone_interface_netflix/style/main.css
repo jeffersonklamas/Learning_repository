@@ -107,3 +107,60 @@ header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus ir√
 .filme-principal .container{
     width: 80%;
 }
+
+/* Aprendendo jquery para incluir um carrosel*/
+/* Definindo o tamanho das imagens */
+
+ .box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
+}
+
+/* Animando as imagens*/
+/*
+.carrosel-filmes {
+    display: flex;
+    margin-top: 50px;
+  }
+  
+  .item {
+    position: relative;
+    display: block;
+    flex: 1 1 0px;
+    transition: transform 500ms;
+  }
+  
+  .carrosel-filmes:focus-within .item,
+  .carrosel-filmes:hover .item {
+    transform: translateX(-25%);
+  }
+  
+  .item:focus ~ .item,
+  .item:hover ~ .item {
+    transform: translateX(25%);
+  }
+  
+  .carrosel-filmes .item:focus,
+  .carrosel-filmes .item:hover {
+    transform: scale(1.5);
+    z-index: 1;
+  }
+  
+  body {
+    overflow: hidden;
+  }
+  
+  .item img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  .item:hover ~ .item {
+    transform: translateX(25%);
+  }
+  */
