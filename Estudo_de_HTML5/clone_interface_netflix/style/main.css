@@ -121,8 +121,8 @@ header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus ir√
     margin-top: 5px;
 }
 
-/* Animando as imagens*/
-/*
+/* Animando as imagens do carrosel = sem muito sucesso*/
+
 .carrosel-filmes {
     display: flex;
     margin-top: 50px;
@@ -163,4 +163,4 @@ header nav a:hover{ /* Definindo que toda vez que o mouse passar pelos menus ir√
   .item:hover ~ .item {
     transform: translateX(25%);
   }
-  */
+  
