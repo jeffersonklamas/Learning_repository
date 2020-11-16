@@ -11,22 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f898f7-0740-4e48-ae8a-ea900182a34b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/Estudos_de_Tecnologia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Estudos_Python_DIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meu_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Estudos" beforeDir="false" afterPath="$PROJECT_DIR$/../Estudos" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7_Calculadora1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7_calculadora2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula7_televisao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +33,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1kFAsvGkoqoQQtMQVUn8OJh85hP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.DedosApontadosResolucao">
+  <component name="RunManager" selected="Python.Testes">
     <configuration name="DedosApontadosResolucao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Testes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula7_Calculadora1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_Calculadora1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula7_calculadora2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +121,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_calculadora2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula7_televisao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos_Python_DIO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_televisao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,10 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Testes" />
+        <item itemvalue="Python.aula7_televisao" />
+        <item itemvalue="Python.aula7_calculadora2" />
+        <item itemvalue="Python.aula7_Calculadora1" />
         <item itemvalue="Python.DedosApontadosResolucao" />
-        <item itemvalue="Python.aula6" />
-        <item itemvalue="Python.aula5" />
-        <item itemvalue="Python.aula4" />
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +185,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1025" height="285" key="GridCell.Tab.0.bottom" timestamp="1605408970192">
+    <state width="1825" height="285" key="GridCell.Tab.0.bottom" timestamp="1605503601818">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1025" height="285" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605408970192" />
-    <state width="1025" height="285" key="GridCell.Tab.0.center" timestamp="1605408970191">
+    <state width="1825" height="285" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601818" />
+    <state width="1825" height="285" key="GridCell.Tab.0.center" timestamp="1605503601817">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1025" height="285" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605408970191" />
-    <state width="1025" height="285" key="GridCell.Tab.0.left" timestamp="1605408970190">
+    <state width="1825" height="285" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601817" />
+    <state width="1825" height="285" key="GridCell.Tab.0.left" timestamp="1605503601816">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1025" height="285" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605408970190" />
-    <state width="1025" height="285" key="GridCell.Tab.0.right" timestamp="1605408970192">
+    <state width="1825" height="285" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601816" />
+    <state width="1825" height="285" key="GridCell.Tab.0.right" timestamp="1605503601817">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1025" height="285" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605408970192" />
+    <state width="1825" height="285" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601817" />
     <state x="1094" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1605404132625">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
