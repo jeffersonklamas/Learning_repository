@@ -11,11 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f898f7-0740-4e48-ae8a-ea900182a34b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Testes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula7_Calculadora1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula7_calculadora2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula7_televisao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula9_notaaluno.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testes.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula7_televisao.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula7_televisao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,70 +45,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Testes">
-    <configuration name="DedosApontadosResolucao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estudos_Python_DIO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DedosApontadosResolucao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Testes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estudos_Python_DIO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="aula7_Calculadora1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Estudos_Python_DIO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_Calculadora1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.aula9_notaaluno">
     <configuration name="aula7_calculadora2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,13 +95,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos_Python_DIO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos_Python_DIO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula9_notaaluno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Estudos_Python_DIO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula9_notaaluno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Testes" />
+        <item itemvalue="Python.aula9_notaaluno" />
+        <item itemvalue="Python.aula9" />
+        <item itemvalue="Python.aula8" />
         <item itemvalue="Python.aula7_televisao" />
         <item itemvalue="Python.aula7_calculadora2" />
-        <item itemvalue="Python.aula7_Calculadora1" />
-        <item itemvalue="Python.DedosApontadosResolucao" />
       </list>
     </recent_temporary>
   </component>
@@ -185,22 +192,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1825" height="285" key="GridCell.Tab.0.bottom" timestamp="1605503601818">
+    <state width="1637" height="197" key="GridCell.Tab.0.bottom" timestamp="1605643458343">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="285" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601818" />
-    <state width="1825" height="285" key="GridCell.Tab.0.center" timestamp="1605503601817">
+    <state width="1637" height="197" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605643458343" />
+    <state width="1637" height="197" key="GridCell.Tab.0.center" timestamp="1605643458342">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="285" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601817" />
-    <state width="1825" height="285" key="GridCell.Tab.0.left" timestamp="1605503601816">
+    <state width="1637" height="197" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605643458342" />
+    <state width="1637" height="197" key="GridCell.Tab.0.left" timestamp="1605643458342">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="285" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601816" />
-    <state width="1825" height="285" key="GridCell.Tab.0.right" timestamp="1605503601817">
+    <state width="1637" height="197" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605643458342" />
+    <state width="1637" height="197" key="GridCell.Tab.0.right" timestamp="1605643458342">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="285" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605503601817" />
+    <state width="1637" height="197" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605643458342" />
     <state x="1094" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1605404132625">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
