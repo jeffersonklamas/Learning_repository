@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66f898f7-0740-4e48-ae8a-ea900182a34b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula11_PersonalizarExcecao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula10">
+  <component name="RunManager" selected="Python.aula11">
     <configuration name="aula10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula7_televisao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula7_televisao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula11_PersonalizarExcecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Estudos_Python_DIO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula11_PersonalizarExcecao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula11" />
+        <item itemvalue="Python.aula11_PersonalizarExcecao" />
         <item itemvalue="Python.aula10" />
         <item itemvalue="Python.aula9_notaaluno" />
         <item itemvalue="Python.aula9" />
-        <item itemvalue="Python.aula8" />
-        <item itemvalue="Python.aula7_televisao" />
       </list>
     </recent_temporary>
   </component>
@@ -189,22 +190,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1539" height="188" key="GridCell.Tab.0.bottom" timestamp="1605666359600">
+    <state width="1825" height="188" key="GridCell.Tab.0.bottom" timestamp="1605724597897">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1539" height="188" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605666359600" />
-    <state width="1539" height="188" key="GridCell.Tab.0.center" timestamp="1605666359600">
+    <state width="1825" height="188" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1605724597897" />
+    <state width="1825" height="188" key="GridCell.Tab.0.center" timestamp="1605724597897">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1539" height="188" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605666359600" />
-    <state width="1539" height="188" key="GridCell.Tab.0.left" timestamp="1605666359600">
+    <state width="1825" height="188" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1605724597897" />
+    <state width="1825" height="188" key="GridCell.Tab.0.left" timestamp="1605724597896">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1539" height="188" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605666359600" />
-    <state width="1539" height="188" key="GridCell.Tab.0.right" timestamp="1605666359600">
+    <state width="1825" height="188" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1605724597896" />
+    <state width="1825" height="188" key="GridCell.Tab.0.right" timestamp="1605724597897">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1539" height="188" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605666359600" />
+    <state width="1825" height="188" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1605724597897" />
     <state x="1094" y="401" width="672" height="678" key="search.everywhere.popup" timestamp="1605404132625">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
