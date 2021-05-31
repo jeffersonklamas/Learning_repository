@@ -1,4 +1,4 @@
-""" Exercícios propostos no site: https://www.ime.usp.br/~macmulti/exercicios/inteiros/index.html """
+## Exercícios propostos no site: https://www.ime.usp.br/~macmulti/exercicios/inteiros/index.html
 ## Dado um sequencia de números inteiros não-nulos, seguida por 0, impirmir seus quadrados.
 
 def main():
