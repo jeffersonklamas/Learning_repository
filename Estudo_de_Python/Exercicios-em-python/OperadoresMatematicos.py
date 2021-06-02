@@ -1,5 +1,7 @@
 # Realizando cálculos em python, com interação com o usuário e
 # uma forma de concatenação.
+#
+# Entrada de dados, interagindo com o usuário.
 
 print("Demonstrando cálculo em Python. \n")
 
@@ -26,4 +28,3 @@ print("O resultado do resto da divisão é: {}" .format(modulo))
 print("O resultado da exponenciação é: {} \n" .format(exponenciacao))
 
 print("Fim....")
-
