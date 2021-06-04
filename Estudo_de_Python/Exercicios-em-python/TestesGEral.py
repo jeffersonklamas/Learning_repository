@@ -11,8 +11,13 @@ for d in range(0, 5, 0.1):
     s += d
     print(s) """
     
-a = 60
+""" a = 60
 b = 30
 c = b if (b > a) else a
 print(b)
-print(c)
+print(c) """
+
+x = 67
+y = 80
+x, y, z =1,2,3
+print(x,y,z)

@@ -14,13 +14,18 @@
 # em duas linhas diferentes. Note também que, como não é preciso realizar
 # cálculos, o valor não precisa ser convertido para número, pode ser
 # tratado como texto.
-#
-# Entrada de dados:
-nomecliente = input("Informe o nome do cliente: ")
-datavencimento = input("Data de vencimento da fatura: ")
-mesvencimento = input("Mês do vencimento da fatura: ")
-valordafatura = input("Valor da fatura: ")
-# Desevolvimento
-print("Olá,",nomecliente)
-print("A sua fatura com vencimento em", datavencimento,"de",mesvencimento,"no valor de R$", valordafatura,"está fechada.")
-# Fim
+def main():
+    print("\n")
+    print("Digite os dados solicitados para envio de email: \n")
+    # Entrada de dados:
+    nomecliente = input("Informe o nome do cliente: ")
+    datavencimento = input("Data de vencimento da fatura: ")
+    mesvencimento = input("Mês do vencimento da fatura: ")
+    valordafatura = input("Valor da fatura: ")
+    print("\n")
+    # Desevolvimento
+    print("Olá,",nomecliente)
+    print("A sua fatura com vencimento em", datavencimento,"de",mesvencimento,"no valor de R$", valordafatura,"está fechada.")
+    print("FIM!!!!")
+    # Fim
+main()
