@@ -12,6 +12,10 @@
 #
 # Transformar segundos em Horas
 #
+# Teste
+import doctest
+doctest.testmod()
+#
 #Interatividade com o usuário.
 seconds = input("Informe o número de segundos que quer converter: ")
 total_seconds = int(seconds)
@@ -30,3 +34,4 @@ final_seconds = left_seconds2 % 60
 # Saída na Tela:
 print(days, "dias,", hours, "horas,", minutes, "minutos e", final_seconds, "segundos.")
 #Fim
+
