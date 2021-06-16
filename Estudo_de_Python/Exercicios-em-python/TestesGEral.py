@@ -39,4 +39,41 @@ print (a > b)
 
 import pywhatkit
 pywhatkit.text_to_handwriting("Arquetipos como padrao de comportamento, segundo Jung. Ao que tudo indica, o criador do termo arquetipo foi o psicologo suiço Carl Jung. Para ele, arquetipos sao imagens primordiais, presentes em nosso imaginario, que ajudam a explicar historias passadas, vividas por outras geraçoes.", rgb=(0,0,255))
-""" 
+
+
+list = ["a","b","c"]
+list.pop() # pop remove a última
+print(list)
+
+i = 1
+while i < 4:
+    i += 1
+    if i == 2:
+        continue
+    print(i)  
+
+
+d = {0:'a', 1:'b', 2:'c'}
+for x in d.keys():
+    print(d[x])
+ 
+idade = 16  
+    
+if (idade < 18): 
+       print ("Não pode tirar carteira de habilitação")
+else:
+       print ("Pode tirar a carteira de habilitação")
+"""
+
+a = 0
+b = 2
+c = 1
+
+if (a > 0):
+    if (b > 0):
+        print ("Tudo ok para decolagem!")
+    else:
+        print ("Tanque principal vazio; voando com combustível reserva!")
+else:
+    if (c > 0):
+        print ("Foguete não tem piloto, mas há outros foguetes disponíveis!")
